@@ -8,7 +8,8 @@
     "serve": "vite preview",
     "test": "vitest run",
     "lint": "eslint .",
-    "lint:fix": "eslint --fix ."
+    "lint:fix": "eslint --fix .",
+    "prepare": "husky"
   },
   "dependencies": {
     "@tanstack/react-router": "^1.114.3",
@@ -27,6 +28,7 @@
     "@vitejs/plugin-react": "^4.3.4",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
+    "husky": "^9.1.7",
     "jsdom": "^26.0.0",
     "typescript": "^5.7.2",
     "vite": "^6.1.0",
