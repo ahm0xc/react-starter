@@ -21,6 +21,7 @@ export default antfu(
       "antfu/no-top-level-await": ["off"],
       "node/prefer-global/process": ["off"],
       "node/no-process-env": ["error"],
+      "react-refresh/only-export-components": ["off"],
       "perfectionist/sort-imports": [
         "error",
         {
