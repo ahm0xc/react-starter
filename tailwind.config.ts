@@ -11,7 +11,7 @@ export default {
       center: true,
       padding: "1rem",
       screens: {
-        "3xl": "768px",
+        "4xl": "1200px",
       },
     },
     extend: {
