@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
-  "private": true,
   "type": "module",
+  "private": true,
   "scripts": {
     "start": "vite --port 3000",
     "build": "vite build && tsc",
